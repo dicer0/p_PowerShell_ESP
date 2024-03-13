@@ -6,7 +6,6 @@
     <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
-PowerShell for terminal functionalities
 And this specific repository contains documentation about the PowerShell programming language, which is used for terminal functionalities like setting and executing a server.
 &nbsp;
 <br/>
